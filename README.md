@@ -1,5 +1,9 @@
 # Team BJYUAN-CHINA 2023 Wiki
 
+This is the official backup of https://2023.igem.wiki/bjyuan-china/software# as the original project is in gitlab.igem.org but it's unreliable somtimes.
+
+## Following information is imported from Gitlab as original
+
 This repository **MUST** contain all coding assets to generate your team's wiki (HTML, CSS, JavaScript, TypeScript, Python, etc).
 
 Images, photos, icons and fonts **MUST** be stored on `static.igem.wiki` using [uploads.igem.org](https://uploads.igem.org), and Videos **must** be embedded from [iGEM Video Universe](https://video.igem.org).
